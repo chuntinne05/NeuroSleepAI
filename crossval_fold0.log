@@ -1,0 +1,157 @@
+2025-05-06 23:13:18 [INFO ] Loaded 50 subjects from sleepedfx
+2025-05-06 23:13:18 [INFO ] Subject 10000 -> Files: ['./data/processed/data_10000.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10003 -> Files: ['./data/processed/data_10003.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10006 -> Files: ['./data/processed/data_10006.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10009 -> Files: ['./data/processed/data_10009.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10012 -> Files: ['./data/processed/data_10012.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10015 -> Files: ['./data/processed/data_10015.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10018 -> Files: ['./data/processed/data_10018.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10030 -> Files: ['./data/processed/data_10030.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10033 -> Files: ['./data/processed/data_10033.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10048 -> Files: ['./data/processed/data_10048.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10057 -> Files: ['./data/processed/data_10057.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10066 -> Files: ['./data/processed/data_10066.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10072 -> Files: ['./data/processed/data_10072.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10078 -> Files: ['./data/processed/data_10078.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 10090 -> Files: ['./data/processed/data_10090.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 11338 -> Files: ['./data/processed/data_11338.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 12304 -> Files: ['./data/processed/data_12304.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 12859 -> Files: ['./data/processed/data_12859.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 13468 -> Files: ['./data/processed/data_13468.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 14266 -> Files: ['./data/processed/data_14266.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 14440 -> Files: ['./data/processed/data_14440.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 15736 -> Files: ['./data/processed/data_15736.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 16171 -> Files: ['./data/processed/data_16171.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 16201 -> Files: ['./data/processed/data_16201.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 1657 -> Files: ['./data/processed/data_1657.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 18457 -> Files: ['./data/processed/data_18457.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 18694 -> Files: ['./data/processed/data_18694.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 3367 -> Files: ['./data/processed/data_3367.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 3577 -> Files: ['./data/processed/data_3577.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 3769 -> Files: ['./data/processed/data_3769.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 3859 -> Files: ['./data/processed/data_3859.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 4288 -> Files: ['./data/processed/data_4288.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 4363 -> Files: ['./data/processed/data_4363.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 5122 -> Files: ['./data/processed/data_5122.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 5251 -> Files: ['./data/processed/data_5251.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 6541 -> Files: ['./data/processed/data_6541.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 6628 -> Files: ['./data/processed/data_6628.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 7771 -> Files: ['./data/processed/data_7771.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 7969 -> Files: ['./data/processed/data_7969.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 7972 -> Files: ['./data/processed/data_7972.pkl']
+2025-05-06 23:13:18 [INFO ] Subject 9730 -> Files: ['./data/processed/data_9730.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 7138 -> Files: ['./data/processed/data_7138.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 16849 -> Files: ['./data/processed/data_16849.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 18178 -> Files: ['./data/processed/data_18178.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 8152 -> Files: ['./data/processed/data_8152.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 100 -> Files: ['./data/processed/data_100.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 424 -> Files: ['./data/processed/data_424.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 559 -> Files: ['./data/processed/data_559.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 649 -> Files: ['./data/processed/data_649.pkl']
+2025-05-06 23:13:19 [INFO ] Subject 1006 -> Files: ['./data/processed/data_1006.pkl']
+2025-05-06 23:13:19 [INFO ] Train set: 37663 samples
+2025-05-06 23:13:19 [INFO ] Valid set: 3866 samples
+2025-05-06 23:13:19 [INFO ] Test set: 4131 samples
+2025-05-06 23:13:19 [INFO ] --------------------------------------------
+2025-05-06 23:13:19 [INFO ] Train set class distribution:
+2025-05-06 23:13:19 [INFO ] Sleep stage W: 7339 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage N1: 1621 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage N2: 13561 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage N3: 11316 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage R: 5818 samples
+2025-05-06 23:13:19 [INFO ] Obstructive Apnea: 130 samples
+2025-05-06 23:13:19 [INFO ] Obstructive Hypopnea: 486 samples
+2025-05-06 23:13:19 [INFO ] Mixed Apnea: 35 samples
+2025-05-06 23:13:19 [INFO ] Central Apnea: 122 samples
+2025-05-06 23:13:19 [INFO ] Oxygen Desaturation: 3493 samples
+2025-05-06 23:13:19 [INFO ] EEG arousal: 1395 samples
+2025-05-06 23:13:19 [INFO ] Hypopnea: 122 samples
+2025-05-06 23:13:19 [INFO ] --------------------------------------------
+2025-05-06 23:13:19 [INFO ] Test set class distribution:
+2025-05-06 23:13:19 [INFO ] Sleep stage W: 939 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage N1: 169 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage N2: 1262 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage N3: 1045 samples
+2025-05-06 23:13:19 [INFO ] Sleep stage R: 832 samples
+2025-05-06 23:13:19 [INFO ] Obstructive Apnea: 9 samples
+2025-05-06 23:13:19 [INFO ] Obstructive Hypopnea: 48 samples
+2025-05-06 23:13:19 [INFO ] Mixed Apnea: 5 samples
+2025-05-06 23:13:19 [INFO ] Central Apnea: 7 samples
+2025-05-06 23:13:19 [INFO ] Oxygen Desaturation: 586 samples
+2025-05-06 23:13:19 [INFO ] EEG arousal: 226 samples
+2025-05-06 23:13:19 [INFO ] Hypopnea: 0 samples
+2025-05-06 23:13:19 [INFO ] Class weights: {0: 3.627008679328427, 1: 6.375548137083977, 2: 2.658020292221386, 3: 2.930347962759505, 4: 4.022735001991122, 5: 10.0, 6: 8.72609240029754, 7: 10.0, 8: 10.0, 9: 4.933217517377738, 10: 6.664306611174523, 11: 10.0}
+2025-05-06 23:16:24 [INFO ] Loaded 41 subjects from sleepedfx
+2025-05-06 23:16:24 [INFO ] Subject 10000 -> Files: ['./data/processed/data_10000.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10003 -> Files: ['./data/processed/data_10003.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10006 -> Files: ['./data/processed/data_10006.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10012 -> Files: ['./data/processed/data_10012.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10015 -> Files: ['./data/processed/data_10015.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10018 -> Files: ['./data/processed/data_10018.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10030 -> Files: ['./data/processed/data_10030.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10048 -> Files: ['./data/processed/data_10048.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10057 -> Files: ['./data/processed/data_10057.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10066 -> Files: ['./data/processed/data_10066.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10072 -> Files: ['./data/processed/data_10072.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 10078 -> Files: ['./data/processed/data_10078.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 11338 -> Files: ['./data/processed/data_11338.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 12859 -> Files: ['./data/processed/data_12859.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 13468 -> Files: ['./data/processed/data_13468.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 14266 -> Files: ['./data/processed/data_14266.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 14440 -> Files: ['./data/processed/data_14440.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 15736 -> Files: ['./data/processed/data_15736.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 16171 -> Files: ['./data/processed/data_16171.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 16201 -> Files: ['./data/processed/data_16201.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 16849 -> Files: ['./data/processed/data_16849.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 18178 -> Files: ['./data/processed/data_18178.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 18457 -> Files: ['./data/processed/data_18457.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 18694 -> Files: ['./data/processed/data_18694.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 3577 -> Files: ['./data/processed/data_3577.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 3859 -> Files: ['./data/processed/data_3859.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 4288 -> Files: ['./data/processed/data_4288.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 5122 -> Files: ['./data/processed/data_5122.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 6541 -> Files: ['./data/processed/data_6541.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 7138 -> Files: ['./data/processed/data_7138.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 7771 -> Files: ['./data/processed/data_7771.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 7969 -> Files: ['./data/processed/data_7969.pkl']
+2025-05-06 23:16:24 [INFO ] Subject 7972 -> Files: ['./data/processed/data_7972.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 8152 -> Files: ['./data/processed/data_8152.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 12304 -> Files: ['./data/processed/data_12304.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 3769 -> Files: ['./data/processed/data_3769.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 100 -> Files: ['./data/processed/data_100.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 424 -> Files: ['./data/processed/data_424.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 649 -> Files: ['./data/processed/data_649.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 1006 -> Files: ['./data/processed/data_1006.pkl']
+2025-05-06 23:16:25 [INFO ] Subject 3367 -> Files: ['./data/processed/data_3367.pkl']
+2025-05-06 23:16:25 [INFO ] Train set: 30581 samples
+2025-05-06 23:16:25 [INFO ] Valid set: 2636 samples
+2025-05-06 23:16:25 [INFO ] Test set: 3983 samples
+2025-05-06 23:16:25 [INFO ] --------------------------------------------
+2025-05-06 23:16:25 [INFO ] Train set class distribution:
+2025-05-06 23:16:25 [INFO ] Sleep stage W: 6898 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage N1: 1402 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage N2: 10703 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage N3: 8950 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage R: 4270 samples
+2025-05-06 23:16:25 [INFO ] Obstructive Apnea: 104 samples
+2025-05-06 23:16:25 [INFO ] Obstructive Hypopnea: 417 samples
+2025-05-06 23:16:25 [INFO ] Mixed Apnea: 22 samples
+2025-05-06 23:16:25 [INFO ] Central Apnea: 70 samples
+2025-05-06 23:16:25 [INFO ] Oxygen Desaturation: 2643 samples
+2025-05-06 23:16:25 [INFO ] EEG arousal: 1150 samples
+2025-05-06 23:16:25 [INFO ] Hypopnea: 103 samples
+2025-05-06 23:16:25 [INFO ] --------------------------------------------
+2025-05-06 23:16:25 [INFO ] Test set class distribution:
+2025-05-06 23:16:25 [INFO ] Sleep stage W: 735 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage N1: 158 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage N2: 1289 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage N3: 1013 samples
+2025-05-06 23:16:25 [INFO ] Sleep stage R: 882 samples
+2025-05-06 23:16:25 [INFO ] Obstructive Apnea: 9 samples
+2025-05-06 23:16:25 [INFO ] Obstructive Hypopnea: 57 samples
+2025-05-06 23:16:25 [INFO ] Mixed Apnea: 8 samples
+2025-05-06 23:16:25 [INFO ] Central Apnea: 7 samples
+2025-05-06 23:16:25 [INFO ] Oxygen Desaturation: 648 samples
+2025-05-06 23:16:25 [INFO ] EEG arousal: 228 samples
+2025-05-06 23:16:25 [INFO ] Hypopnea: 0 samples
+2025-05-06 23:16:25 [INFO ] Class weights: {0: 3.385098523206305, 1: 6.254609446048098, 2: 2.699901879402897, 3: 2.9708632838889217, 4: 4.198936007917829, 5: 10.0, 6: 8.617183486916389, 7: 10.0, 8: 10.0, 9: 5.0627157414126005, 10: 6.6350643572777335, 11: 10.0}

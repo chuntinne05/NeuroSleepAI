@@ -1,0 +1,95 @@
+{
+  "per_class": {
+    "Sleep stage W": {
+      "precision": {"mean": 0.35, "std": 0.0346},
+      "recall": {"mean": 1.0, "std": 0.0},
+      "f1": {"mean": 0.518, "std": 0.0471},
+      "roc_auc": {"mean": 0.65, "std": 0.0821},
+      "pr_auc": {"mean": 0.45, "std": 0.0924}
+    },
+    "Sleep stage N1": {
+      "precision": {"mean": 0.15, "std": 0.0062},
+      "recall": {"mean": 1.0, "std": 0.0},
+      "f1": {"mean": 0.261, "std": 0.0115},
+      "roc_auc": {"mean": 0.60, "std": 0.1055},
+      "pr_auc": {"mean": 0.20, "std": 0.0103}
+    },
+    "Sleep stage N2": {
+      "precision": {"mean": 0.55, "std": 0.0373},
+      "recall": {"mean": 1.0, "std": 0.0},
+      "f1": {"mean": 0.709, "std": 0.0393},
+      "roc_auc": {"mean": 0.55, "std": 0.0746},
+      "pr_auc": {"mean": 0.50, "std": 0.0449}
+    },
+    "Sleep stage N3": {
+      "precision": {"mean": 0.45, "std": 0.0431},
+      "recall": {"mean": 1.0, "std": 0.0},
+      "f1": {"mean": 0.620, "std": 0.0511},
+      "roc_auc": {"mean": 0.60, "std": 0.1957},
+      "pr_auc": {"mean": 0.50, "std": 0.0878}
+    },
+    "Sleep stage R": {
+      "precision": {"mean": 0.25, "std": 0.0877},
+      "recall": {"mean": 0.75, "std": 0.4899},
+      "f1": {"mean": 0.375, "std": 0.1465},
+      "roc_auc": {"mean": 0.60, "std": 0.1162},
+      "pr_auc": {"mean": 0.30, "std": 0.0415}
+    },
+    "Obstructive Apnea": {
+      "precision": {"mean": 0.15, "std": 0.0127},
+      "recall": {"mean": 0.55, "std": 0.3654},
+      "f1": {"mean": 0.236, "std": 0.0209},
+      "roc_auc": {"mean": 0.55, "std": 0.1858},
+      "pr_auc": {"mean": 0.10, "std": 0.0080}
+    },
+    "Obstructive Hypopnea": {
+      "precision": {"mean": 0.15, "std": 0.0197},
+      "recall": {"mean": 1.0, "std": 0.0},
+      "f1": {"mean": 0.261, "std": 0.0372},
+      "roc_auc": {"mean": 0.50, "std": 0.1348},
+      "pr_auc": {"mean": 0.15, "std": 0.0180}
+    },
+    "Mixed Apnea": {
+      "precision": {"mean": 0.08, "std": 0.0011},
+      "recall": {"mean": 0.80, "std": 0.3905},
+      "f1": {"mean": 0.195, "std": 0.0022},
+      "roc_auc": {"mean": 0.65, "std": 0.1014},
+      "pr_auc": {"mean": 0.05, "std": 0.0009}
+    },
+    "Central Apnea": {
+      "precision": {"mean": 0.07, "std": 0.0006},
+      "recall": {"mean": 0.45, "std": 0.3938},
+      "f1": {"mean": 0.177, "std": 0.0012},
+      "roc_auc": {"mean": 0.50, "std": 0.0866},
+      "pr_auc": {"mean": 0.05, "std": 0.0041}
+    },
+    "Oxygen Desaturation": {
+      "precision": {"mean": 0.25, "std": 0.0395},
+      "recall": {"mean": 1.0, "std": 0.0},
+      "f1": {"mean": 0.400, "std": 0.0646},
+      "roc_auc": {"mean": 0.55, "std": 0.0604},
+      "pr_auc": {"mean": 0.30, "std": 0.0623}
+    },
+    "EEG arousal": {
+      "precision": {"mean": 0.15, "std": 0.0235},
+      "recall": {"mean": 0.75, "std": 0.4899},
+      "f1": {"mean": 0.250, "std": 0.0446},
+      "roc_auc": {"mean": 0.50, "std": 0.0278},
+      "pr_auc": {"mean": 0.10, "std": 0.0144}
+    },
+    "Hypopnea": {
+      "precision": {"mean": 0.08, "std": 0.0018},
+      "recall": {"mean": 0.55, "std": 0.4216},
+      "f1": {"mean": 0.210, "std": 0.0036},
+      "roc_auc": {"mean": 0.60, "std": 0.2424},
+      "pr_auc": {"mean": 0.05, "std": 0.0584}
+    }
+  },
+  "weighted": {
+    "precision": {"mean": 0.35, "std": 0.0193},
+    "recall": {"mean": 0.95, "std": 0.0740},
+    "f1": {"mean": 0.50, "std": 0.0236},
+    "roc_auc": {"mean": 0.60, "std": 0.0539},
+    "pr_auc": {"mean": 0.40, "std": 0.0148}
+  }
+}
